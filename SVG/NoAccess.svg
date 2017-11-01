@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg id="svg3351" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="100%" width="100%" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 31 31" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs3353">
+  <filter id="filter3323" height="1.72" width="1.72" color-interpolation-filters="sRGB" y="-0.36" x="-0.36">
+   <feGaussianBlur id="feGaussianBlur3356" stdDeviation="2.46429"/>
+  </filter>
+  <linearGradient id="linearGradient3967" y2="716.11" gradientUnits="userSpaceOnUse" x2="111.82" gradientTransform="matrix(.90129 0 0 .90129 -94.091 -639.8)" y1="738.97" x1="131.75">
+   <stop id="stop3359" stop-color="#bb2c29" offset="0"/>
+   <stop id="stop3361" stop-color="#f55d4f" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="g3969">
+  <path id="path3377" d="m29.836 15.602a14.324 14.324 0 0 1 -28.648 0 14.324 14.324 0 1 1 28.648 0z" fill-rule="evenodd" stroke="#7b0000" stroke-width="1.5" fill="url(#linearGradient3967)"/>
+  <path id="path3379" d="m122.14 721.65a8.2143 8.2143 0 1 1 -16.429 0 8.2143 8.2143 0 1 1 16.429 0z" fill-rule="evenodd" fill-opacity=".75" transform="matrix(1.2579 0 0 1.1774 -129.32 -835.71)" filter="url(#filter3323)" fill="#ff1300"/>
+  <g id="g3863" transform="matrix(1.0369 0 0 .74134 -1.1442 4.3453)">
+   <rect id="rect3075" opacity=".40426" ry="1.2258" height="6.6824" width="21" y="11.531" x="5.4263"/>
+   <rect id="rect3075-4" ry="1.2258" height="6.6824" width="21" y="11.88" x="5.6785" fill="#fff"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.0//EN'  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="1200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" height="1200">
+ <title>Logo design</title>
+ <desc>author: David Zydd</desc>
+ <defs>
+  <linearGradient id="grad_11" y2="100%" x2="0%" y1="100%" x1="50%">
+   <stop stop-color="#1464c8" offset="0"/>
+   <stop stop-color="#5ac8fa" offset="1"/>
+  </linearGradient>
+  <linearGradient id="grad_21" y2="100%" x2="0%" y1="100%" x1="50%">
+   <stop stop-color="#c81414" offset="0"/>
+   <stop stop-color="#fa6450" offset="1"/>
+  </linearGradient>
+  <linearGradient id="grad_31" y2="100%" x2="0%" y1="100%" x1="50%">
+   <stop stop-color="#14c828" offset="0"/>
+   <stop stop-color="#5aff78" offset="1"/>
+  </linearGradient>
+  <g id="penrose_3_1_c1">
+   <path stroke-width="0" d="m200 11.5v-23l-290.04-167.46-0.001 297.92 19.919-11.5v-251.92z" fill="url(#grad_11)"/>
+  </g>
+  <g id="penrose_3_2_c1">
+   <path stroke-width="0" d="m200 20v-40l-282.68-163.21v269.42l34.642-20.005v-189.42z" fill="url(#grad_11)"/>
+  </g>
+  <g id="penrose_3_3_c1">
+   <path stroke-width="0" d="m200 26.5v-53l-277.05-159.96v249.92l45.899-26.505v-143.92z" fill="url(#grad_11)"/>
+  </g>
+  <g id="penrose_3_4_c1">
+   <path stroke-width="0" d="m200 34v-68l-270.56-156.21 0.005 227.42 58.89-34.005v-91.41z" fill="url(#grad_11)"/>
+  </g>
+  <g id="penrose_3_1_c2">
+   <path stroke-width="0" d="m200 11.5v-23l-290.04-167.46-0.001 297.92 19.919-11.5v-251.92z" fill="url(#grad_21)"/>
+  </g>
+  <g id="penrose_3_2_c2">
+   <path stroke-width="0" d="m200 20v-40l-282.68-163.21v269.42l34.642-20.005v-189.42z" fill="url(#grad_21)"/>
+  </g>
+  <g id="penrose_3_3_c2">
+   <path stroke-width="0" d="m200 26.5v-53l-277.05-159.96v249.92l45.899-26.505v-143.92z" fill="url(#grad_21)"/>
+  </g>
+  <g id="penrose_3_4_c2">
+   <path stroke-width="0" d="m200 34v-68l-270.56-156.21 0.005 227.42 58.89-34.005v-91.41z" fill="url(#grad_21)"/>
+  </g>
+  <g id="penrose_3_1_c3">
+   <path stroke-width="0" d="m200 11.5v-23l-290.04-167.46-0.001 297.92 19.919-11.5v-251.92z" fill="url(#grad_31)"/>
+  </g>
+  <g id="penrose_3_2_c3">
+   <path stroke-width="0" d="m200 20v-40l-282.68-163.21v269.42l34.642-20.005v-189.42z" fill="url(#grad_31)"/>
+  </g>
+  <g id="penrose_3_3_c3">
+   <path stroke-width="0" d="m200 26.5v-53l-277.05-159.96v249.92l45.899-26.505v-143.92z" fill="url(#grad_31)"/>
+  </g>
+  <g id="penrose_3_4_c3">
+   <path stroke-width="0" d="m200 34v-68l-270.56-156.21 0.005 227.42 58.89-34.005v-91.41z" fill="url(#grad_31)"/>
+  </g>
+  <g id="shape_1">
+   <use xlink:href="#penrose_3_1_c1" transform="rotate(150) translate(4)"/>
+   <use xlink:href="#penrose_3_1_c2" transform="rotate(-90) translate(4)"/>
+   <use xlink:href="#penrose_3_1_c3" transform="rotate(30) translate(4)"/>
+  </g>
+  <g id="shape_2">
+   <use xlink:href="#penrose_3_2_c1" transform="rotate(150) translate(5)"/>
+   <use xlink:href="#penrose_3_2_c2" transform="rotate(-90) translate(5)"/>
+   <use xlink:href="#penrose_3_2_c3" transform="rotate(30) translate(5)"/>
+  </g>
+  <g id="shape_3">
+   <use xlink:href="#penrose_3_3_c1" transform="rotate(30) translate(5)"/>
+   <use xlink:href="#penrose_3_3_c2" transform="rotate(150) translate(5)"/>
+   <use xlink:href="#penrose_3_3_c3" transform="rotate(-90) translate(5)"/>
+  </g>
+  <g id="shape_4">
+   <use xlink:href="#penrose_3_4_c1" transform="rotate(150) translate(5)"/>
+   <use xlink:href="#penrose_3_4_c2" transform="rotate(-90) translate(5)"/>
+   <use xlink:href="#penrose_3_4_c3" transform="rotate(30) translate(5)"/>
+  </g>
+ </defs>
+ <rect width="1200" stroke-width="0" fill="#fff" height="1200"/>
+ <use xlink:href="#shape_4" transform="translate(600 400) scale(1.8)"/>
+ <use xlink:href="#shape_1" transform="translate(200 1e3) scale(.9)"/>
+ <use xlink:href="#shape_2" transform="translate(600 1e3) scale(.9)"/>
+ <use xlink:href="#shape_3" transform="translate(1e3 1e3) scale(.9)"/>
+</svg>
