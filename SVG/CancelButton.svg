@@ -11,13 +11,13 @@
    viewBox="0 0 323.02487 323.0249"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="CancelButton.svg"
    width="323.02487"
    height="323.0249"
-   inkscape:export-filename="D:\Simon\Incoming\CancelButton.png"
-   inkscape:export-xdpi="6.6867914"
-   inkscape:export-ydpi="6.6867914">
+   inkscape:export-filename="CancelButton.png"
+   inkscape:export-xdpi="7.1300001"
+   inkscape:export-ydpi="7.1300001">
   <metadata
      id="metadata51">
     <rdf:RDF>
@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,8 +39,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1028"
+     inkscape:window-width="2560"
+     inkscape:window-height="1537"
      id="namedview49"
      showgrid="false"
      fit-margin-top="0"
@@ -48,7 +48,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="1.18"
-     inkscape:cx="-4.0479053"
+     inkscape:cx="-141.75977"
      inkscape:cy="170.1003"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
